@@ -1,4 +1,5 @@
 ## Hi, I'm Winston Gultiano!
+My name is Winston O. Gultiano, 20 years old and I am from Kibungan, Benguet. I am currently studying Bachelor of Science in Information Systems.
 
 
 <!--
