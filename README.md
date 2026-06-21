@@ -1,18 +1,35 @@
-## Hi, I'm Winston Gultiano!
-My name is Winston O. Gultiano, 20 years old and I am from Kibungan, Benguet. I am currently studying Bachelor of Science in Information Systems.
+# 👋 Hi, I'm Winston Gultiano
 
+🎓 BS Information Systems Student  
+📍 Kibungan, Benguet, Philippines  
+💻 Aspiring Software Developer
 
-<!--
-**wgultiano/wgultiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- Currently learning Java, SQL, Git, and GitHub
+- Interested in Software Development
+- Building Java RPG projects
+- Exploring Database Management Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+### Dungeon Trials: Rise of the Hero
+A Java RPG inspired by Solo Leveling.
+
+### FindMyStayPH
+A student accommodation finder application.
+
+## 💻 Tech Stack
+
+Java • SQL • Git • GitHub • MySQL
+
+## 🎯 Current Goals
+
+- Improve Java programming skills
+- Learn full-stack development
+- Build more real-world projects
+- Contribute to open-source projects
+
+## 📫 Connect With Me
+
+GitHub: @wgultiano
