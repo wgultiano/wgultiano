@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Winston Gultiano
-
-🎓 BS Information Systems Student  
-📍 Kibungan, Benguet, Philippines  
-💻 Aspiring Software Developer
+# 👋 I'm Winston Gultiano
 
 ## 🚀 About Me
 
