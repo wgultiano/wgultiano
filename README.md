@@ -7,12 +7,12 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wgultiano) 
 
 ### Tech Stack:
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg">
-<img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg">
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg">
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg">
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg">
-<img align="left" alt="PHP" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/php.svg">
+<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="left" alt="HTML" width="30px" <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="left" alt="CSS" width="30px" <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img align="left" alt="JavaScript" width="30px" <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="left" alt="PHP" width="30px" <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 
 
 ### GitHub Stats:
