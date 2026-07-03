@@ -13,6 +13,7 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
 <img align="left" alt="CSS" width="30px" <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="left" alt="JavaScript" width="30px" <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="PHP" width="30px" <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="left" alt="Laravel" width="30px" <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 
 
 ### GitHub Stats:
