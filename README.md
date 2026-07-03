@@ -1,8 +1,7 @@
 ## Hi, I'm Winston Gultiano
 
 ### About Me:
-I'm currently studying Bachelor of Science in Information Systems. Although it is not my passion, I strive to learn, adapt, and improve so I can become a better future IT professional.
-
+I'm currently studying Bachelor of Science in Information Systems at La Verdad Christian College. 
 
 ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wgultiano) 
