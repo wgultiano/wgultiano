@@ -3,10 +3,6 @@
 ### About Me:
 I'm currently studying Bachelor of Science in Information Systems at La Verdad Christian College. 
 
-### Socials:
-<a href="https://facebook.com/wgultiano">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="Facebook" width="30" height="30">
-</a>
 
 ### Tech Stack:
 
