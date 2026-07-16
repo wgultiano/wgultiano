@@ -17,9 +17,11 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
 </p>
 
 ### Currenly Learning:
+
+<p align="left">
 <img alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-
-
+<img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=wgultiano)](https://visitcount.itsvg.in)
