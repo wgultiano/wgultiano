@@ -5,7 +5,6 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
 
 
 ### Tech Stack:
-
 <p align="left">
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -17,7 +16,6 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
 </p>
 
 ### Currenly Learning:
-
 <p align="left">
 <img alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
 <img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
