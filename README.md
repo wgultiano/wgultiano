@@ -1,4 +1,4 @@
-## Hi, I'm Winston Gultiano
+## Hi, I'm Winston!
 
 ### About Me:
 I'm currently studying Bachelor of Science in Information Systems at La Verdad Christian College. 
