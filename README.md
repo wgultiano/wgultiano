@@ -10,6 +10,7 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   alt="Python"
   width="40"
+  style="color: #374856;
 />
   <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
