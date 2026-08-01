@@ -15,7 +15,7 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
   <img alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 </p>
 
-### Currenly Learning:
+### Currently Learning:
 <p align="left">
 <img alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
 <img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
