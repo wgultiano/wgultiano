@@ -1,8 +1,14 @@
 ## Hi, I'm Winston!
 
 ### About Me:
-I'm currently studying Bachelor of Science in Information Systems at La Verdad Christian College. 
+I'm currently studying Bachelor of Science in Information Systems at La Verdad Christian College.
 
+### Currently Working On:
+**Gathering Attendance Tracking and Reporting Hub (GATRH)**
+
+A web-based attendance tracking and reporting system designed to help manage gathering attendance, student records, and attendance reports more efficiently.
+
+> Currently being developed as a group project.
 
 ### Tech Stack:
 <p align="left">
@@ -17,8 +23,8 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
 
 ### Currently Learning:
 <p align="left">
-<img alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-<img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
+  <img alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
+  <img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
 </p>
 
 ### Next to Learn:
