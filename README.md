@@ -21,6 +21,11 @@ I'm currently studying Bachelor of Science in Information Systems at La Verdad C
 <img alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
 </p>
 
+### Next to Learn:
+- REST APIs
+- TypeScript
+- Next.js
+
 ---
 [![](https://komarev.com/ghpvc/?username=wgultiano)](https://visitcount.itsvg.in)
 
