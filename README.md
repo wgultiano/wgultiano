@@ -12,13 +12,6 @@ A web-based attendance tracking and reporting system designed to help manage gat
 
 > **Role:** Front-End Developer
 
-### Personal Project:
-
-**My Homescreen**
-
-A React project that aims to recreate my personal Android homescreen with functional app icons, organized folders, and interactive interface.
-
-
 ### Tech Stack:
 
 <p align="left">
