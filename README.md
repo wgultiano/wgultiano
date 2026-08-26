@@ -31,7 +31,12 @@ A web-based attendance tracking and reporting system designed to help manage gat
   <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 
+### Next to Learn:
 
+- REST APIs
+- Tailwind CSS
+- TypeScript
+- Next.js
 
 ---
 
