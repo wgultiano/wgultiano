@@ -40,6 +40,7 @@ A web-based attendance tracking and reporting system designed to help manage gat
   </a>
 </p>
 
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wgultiano&style=flat-square"/>
